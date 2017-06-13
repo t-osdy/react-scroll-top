@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import ScrollApp from './ScrollApp';
 import './index.css';
 
-ReactDOM.render(<App />, 
+ReactDOM.render(<ScrollApp />, 
 document.getElementById('root'));
 
